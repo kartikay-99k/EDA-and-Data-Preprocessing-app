@@ -22,7 +22,10 @@ Step 2. Pip Install all dependencies in   *requirements.txt*  in your conda envi
 Step 3. Run  `streamlit run app.py`       
 
    
- ### 2. [App Deployed on Heroku](https://data-exploration-app.herokuapp.com/) 
+ ### 2. [App Deployed on Heroku](https://data-exploration-app.herokuapp.com/)     
+ 
+ 
+ ### 3. [App Deployed on Streamlit](https://share.streamlit.io/kartikay-99k/eda-and-data-preprocessing-app/main/app.py) 
  
    
 
